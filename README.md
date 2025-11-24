@@ -147,47 +147,47 @@ I Am Smarticus! is a console-based Java quiz game designed to make learning fun 
 ## Screenshots
 
 ### 1. Welcome Screen & User Registration
-![Welcome Screen](screenshots/welcome-screen.png)
+![Welcome Screen](./screenshots/welcome-screen.png.png)
 *User enters email, password, name, and age to begin the quiz*
 
 ### 2. Category Selection
-![Category Selection](screenshots/category-selection.png)
+![Category Selection](./screenshots/category-selection.png.png)
 *Main menu displaying three quiz categories: Science, Maths, and Computer Applications*
 
 ### 3. Science Quiz
-![Science Quiz](screenshots/science-quiz.png)
+![Science Quiz](./screenshots/science-quiz.png.png)
 *Example of Science quiz with multiple-choice questions*
 
 ### 4. Maths Quiz
-![Maths Quiz](screenshots/maths-quiz.png)
+![Maths Quiz](./screenshots/maths-quiz.png.png)
 *Example of Maths quiz with problem-solving questions*
 
 ### 5. Computer Applications Quiz
-![CA Quiz](screenshots/ca-quiz.png)
+![CA Quiz](./screenshots/ca-quiz.png.png)
 *Example of Computer Applications quiz testing Java and OOP concepts*
 
 ### 6. Correct Answer Feedback
-![Correct Answer](screenshots/correct-answer.png)
+![Correct Answer](./screenshots/correct-answer.png.png)
 *Positive feedback when user answers correctly with points awarded*
 
 ### 7. Wrong Answer Feedback
-![Wrong Answer](screenshots/wrong-answer.png)
+![Wrong Answer](./screenshots/wrong-answer.png.png)
 *Feedback when user answers incorrectly*
 
 ### 8. Score Display
-![Score Display](screenshots/score-display.png)
+![Score Display](./screenshots/score-display.png.png)
 *Final score showing points earned and percentage achieved*
 
 ### 9. Certificate of Excellence
-![Certificate](screenshots/certificate.png)
+![Certificate](./screenshots/certificate.png.png)
 *Certificate awarded for scores above 70% with user details*
 
 ### 10. Retry Mechanism
-![Retry Option](screenshots/retry-option.png)
+![Retry Option](./screenshots/retry-option.png.png)
 *Option to improve score with remaining attempts displayed*
 
 ### 11. Age Restriction
-![Age Restriction](screenshots/age-restriction.png)
+![Age Restriction](./screenshots/age-restriction.png.png)
 *Error message displayed when user is under 13 years old*
 
 > Note: Add your actual screenshots to the `screenshots/` folder with the filenames shown above. See the [screenshots README](screenshots/README.md) for capture guidelines.
